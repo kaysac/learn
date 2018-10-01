@@ -1,6 +1,2 @@
-fgdfsg
-dfg
-dfg
-dfsg
-dg
-dsfgs
+hello :wq
+
